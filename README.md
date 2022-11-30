@@ -5,10 +5,10 @@ creacion de un blog
 
 ## Cosas que encontrar
 
->Html Mokepon
->Js Mokepon
->css Mokepon 
->Assets mokepon
+>Html Mokepon 
+Js Mokepon 
+css Mokepon  
+Assets mokepon 
 
 
 Con esto puedes crea el tuyo
