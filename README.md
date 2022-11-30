@@ -6,8 +6,11 @@ creacion de un blog
 ## Cosas que encontrar
 
 >Html Mokepon 
-Js Mokepon 
+
+Js Mokepon
+
 css Mokepon  
+
 Assets mokepon 
 
 
