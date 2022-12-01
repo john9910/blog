@@ -5,3 +5,5 @@ Jonathan tiene 23 años, nacido en Mexico
 Hoy hablaremos de su vida y proyectos jajaja
 
 master 1
+
+master 2
