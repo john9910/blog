@@ -10,4 +10,3 @@ master 1
 master 2
 =======
 experimento 1
->>>>>>> 07b1cb1 (ex 1)
