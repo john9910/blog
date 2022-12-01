@@ -6,4 +6,8 @@ Hoy hablaremos de su vida y proyectos jajaja
 
 master 1
 
+<<<<<<< HEAD
 master 2
+=======
+experimento 1
+>>>>>>> 07b1cb1 (ex 1)
